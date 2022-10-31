@@ -1,0 +1,30 @@
+ul {
+  list-style: none;
+}
+.links {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+  margin: 0 auto;
+  gap: 1rem;
+}
+.links .link {
+  gap: 0.5rem;
+  width: 92vw;
+  height: 2.5rem;
+  background: #eaecf0;
+  border: 1px solid #eaecf0;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #101828;
+}
+.other-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin: 1rem;
+}
