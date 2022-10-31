@@ -1,0 +1,22 @@
+.profile {
+  margin-top: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 1rem;
+}
+.profile img {
+  width: 88px;
+  height: 88px;
+  border-radius: 50%;
+}
+.profile h3 {
+  width: 100%;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+}
